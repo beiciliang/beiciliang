@@ -28,8 +28,8 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-beiciliang.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://beiciliang.github.io/)
-[![LinkedIn](https://img.shields.io/badge/-beiciliang-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beiciliang/)
+[![Website](https://img.shields.io/badge/-beiciliang.github.io-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://beiciliang.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-beiciliang-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beiciliang/)
 [![Google Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=UkcVRtIAAAAJ)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/beiciliang)
 
